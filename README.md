@@ -12,7 +12,7 @@ Este proyecto es una aplicación web que permite explorar repositorios populares
 
 ## Estructura del proyecto
 
-proyecto/
+Buscador-de-Repositorio-Aleatorio-de-GitHub/
 ├── index.html # Página principal
 ├── styles_rag.css # Estilos personalizados
 ├── scripts_rag.js # Lógica en JavaScript
@@ -24,7 +24,7 @@ proyecto/
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Dxnniel24/Buscador-de-Repositorio-Aleatorio-de-GitHub.git
    cd Buscador-de-Repositorio-Aleatorio-de-GitHub
 Abre el archivo index.html en tu navegador.
 
@@ -48,3 +48,5 @@ https://github.com/kamranahmedse/githunt/blob/master/src/components/filters/lang
 Este proyecto utiliza la API pública de GitHub sin autenticación, por lo que puede verse limitado por el rate limit (60 solicitudes por hora).
 
 Es necesario tener conexión a internet para que funcione correctamente.
+
+Desarrollado por [Dxnniel24](https://github.com/Dxnniel24)
