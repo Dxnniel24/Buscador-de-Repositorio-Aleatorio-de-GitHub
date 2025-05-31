@@ -10,13 +10,7 @@ Este proyecto es una aplicación web que permite explorar repositorios populares
 - Muestra información relevante: nombre, descripción, estrellas, forks e issues abiertos.
 - Botón para ver otro repositorio aleatorio del mismo lenguaje.
 
-## Estructura del proyecto
-
-Buscador-de-Repositorio-Aleatorio-de-GitHub/
-├── index.html # Página principal
-├── styles_rag.css # Estilos personalizados
-├── scripts_rag.js # Lógica en JavaScript
-└── README.md # Documentación del proyecto
+<pre> ``` 📁 Buscador-de-Repositorio-Aleatorio-de-GitHub/ ├── index.html # Página principal ├── styles_rag.css # Estilos personalizados ├── scripts_rag.js # Lógica en JavaScript └── README.md # Documentación del proyecto ``` </pre>
 
 
 ## Cómo usar
