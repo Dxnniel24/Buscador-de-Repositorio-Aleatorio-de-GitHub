@@ -11,11 +11,13 @@ Este proyecto es una aplicación web que permite explorar repositorios populares
 - Botón para ver otro repositorio aleatorio del mismo lenguaje.
 
 ## Buscador-de-Repositorio-Aleatorio-de-GitHub/ 
-   ├── index.html # Página principal 
-   ├── styles_rag.css # Estilos personalizados 
-   ├── scripts_rag.js # Lógica en JavaScript 
+   ├── index.html # Página principal
+   
+   ├── styles_rag.css # Estilos personalizados
+   
+   ├── scripts_rag.js # Lógica en JavaScript
+   
    └── README.md # Documentación del proyecto
-
 
 ## Cómo usar
 
