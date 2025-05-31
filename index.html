@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Repositorio Aleatorio de Github</title>
+    <link rel="stylesheet" href="styles_rag.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Buscador de Repositorio de GitHub</h1>
+
+      <label for="language-select">Selecciona un lenguaje:</label>
+      <select id="language-select">
+        <option value="">-- Elige un lenguaje --</option>
+      </select>
+
+      <div id="loading" class="loading">Cargando repositorios...</div>
+      <div id="error" class="error"></div>
+      <div id="empty" class="empty">
+        No se encontraron repositorios para ese lenguaje.
+      </div>
+
+      <div id="repo-details"></div>
+
+      <button id="refresh-button" class ="hidden">
+        Ver otro repositorio
+      </button>
+    </div>
+
+    <script src="scripts_rag.js"></script>
+  </body>
+</html>
